@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "biomejs",
+    "inorbit",
+    "paralleldrive"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
